@@ -9,25 +9,33 @@ var scriptLocation = '../../LwkZQR9zZO8.json'
 
 var loadedScript=[];
 var loadedLesson=[];
-
+var loadedCaptionLocation=[];
 gettingScript(scriptLocation)
   .then(function(result){
     console.log('here is the scriptloaded ', result);
     loadedScript = result.caption
     loadedLesson = result.lesson_content
+    loadedCaptionLocation = result.CaptionLocation
     loadLessonCard(result)
     return loadedLesson
   })
+  //loading video to placeholder
   .then(function(result){
-    loadVideo(result)})
+    loadVideo(result)
 
+  })
+  .then(function(){
+    console.log('here is the captionLocation ', loadedCaptionLocation);
+    for(let i=0;i<loadedCaptionLocation.length;i++){
+      console.log('for loop in lodadedCaptionLocation is working');
+      let actorId = loadedCaptionLocation[i].actorId
+      let actorName = loadedCaptionLocation[i].actorName
+      let location = loadedCaptionLocation[i].captionLocation
+      $('#videoPlaceholder').append('<div id="individualCaptionBox'+i+'" class="individual-caption-box" style="position:absolute; width:auto; height:auto; bottom:'+location.y+'%'+'; left:'+location.x+'%'+';"></div>');
+      $('#individualCaptionBox'+i).text('testing')
+    }
 
-
-
-//loading video to placeholder
-
-
-// console.log('this is player ',player);
+  })
 
 $('#learnButton').on('click', function(){
 
