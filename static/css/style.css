@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+html{
+    box-sizing: border-box;
+}
+*, *:before, *:after{
+    box-sizing: inherit;
+}
+
+.left-side{
+  background: green;
+
+  grid-area: videoholder
+
+}
+.right-side{
+  grid-area: notebook;
+  background: #ECECEC;
+  position: relative;
+  /* display:block;
+   float: right;
+   width: 100%;
+  height: 100%;
+  text-align:center; */
+
+}
+.video-wrapper{
+position:relative;
+width:100%;
+background: clear;
+}
+.subBox {
+position: absolute;
+bottom:17px;
+width: 100%;
+display: block;
+font-family: 'Raleway', sans-serif;
+background: black;
+color : #ffffff;
+opacity :0.75;
+font-size:20px;
+padding-top: 0px;
+padding-bottom: 0px;
+/* padding-right: 80px;
+padding-left: 80px; */
+margin: 0 auto;
+text-align: center;
+z-index: 10;
+}
+.custom-modal{
+display: none;
+position: absolute;
+z-index:10;
+top: 180px;
+height: 30%;
+width: 100%;
+overflow: auto;
+background-color: rgba(0,0,0,0.65);
+margin: 0 auto;
+text-align: center;
+font-size: 25px;
+color: white;
+}
+.custom-modal-content{
+    margin: 0 auto;
+    font-size: 25px;
+    color: white;
+}
+
+.wordbreakdown-Word{
+    color: white;
+    grid-area: mainword;
+    font-size: 1.5em;
+}
+.wordbreakdown-Pronun{
+    grid-area: pronunc;
+    font-size: 0.9em;
+}
+.wordbreakdown-Trans{
+    grid-area: explain;
+    margin: auto;
+    font-size: 1.5em;
+}
+.wordbreakdown-WordType{
+    display: inline;
+    grid-area: wordtype;
+    float: right;
+}
+
+#video-placeholder{
+  width: 100%;
+  background: blue;
+  border: 30px;
+  border-color: white;
+display: inline-block;
+}
+
+.note-container{
+  margin: 13px auto;
+  width: auto;
+  height: 90%;
+}
+
+.lesson-box{
+  display: none;
+  background-color: white;
+  height: 100%;
+}
+
+.real-mainsent-container{
+
+}
+
+.real-mainsent{
+  text-align: center;
+  margin: 0 auto;
+  color: white;
+
+}
+.realmain-words{
+  display: inline;
+  background: none;
+  border: none;
+  color: gray;
+  font-size: 1.5em;
+
+}
+
+.wordtypebreakdown{
+  font-size: 7px;
+}
+#word,#definition,#marker{
+display: inline-block;
+}
+.btnControls{
+  margin: 0 auto;
+  grid-area: controller;
+}

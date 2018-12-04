@@ -1,0 +1,80 @@
+.active{
+
+}
+.inactive{
+display:none;
+}
+.case-active{
+font-size: 1.5rem;
+font-weight: bold;
+}
+.case-inactive{
+font-size: small;
+}
+.case-content-active{
+
+}
+.case-content-inactive{
+
+}
+.lesson-content-container{
+  display: none;
+  height: 100%;
+}
+.lesson-content{
+  margin: 15px;
+  height: 95%;
+}
+.lesson-title{
+  margin: 0 auto;
+  font-size: 1.5em;
+  font-weight: bold ;
+  color: black;
+}
+.lesson-description{
+}
+.lesson-equation{
+
+}
+.lesson-card-case{
+
+}
+.left-side-element{
+  grid-area: left_side_element;
+}
+.right-side-element{
+  grid-area: right_side_element;
+}
+.main-element{
+  font-size: 1.3em;
+  grid-area: main_element;
+}
+
+/* othercase elements styling */
+.peripheral-element-main{
+  font-size: 1.3em;
+  grid-area: main_element;
+}
+.peripheral-element-left{
+  grid-area: left_side_element;
+}
+.peripheral-element-right{
+  grid-area: right_side_element;
+}
+
+.other-case-video{
+  position: absolute;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+.video-inactive{
+  display:none;
+}
+.video-active{
+  display:block;
+}

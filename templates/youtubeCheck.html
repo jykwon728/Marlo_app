@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>youtube Check</title>
+  </head>
+  <body>
+<div id="videoPlacer" class="video-placer"></div>
+
+<script src="https://www.youtube.com/iframe_api"></script>
+<script>
+function onYouTubeIframeAPIReady(){
+  let video  = new YT.Player('videoPlacer', {
+   width: 700,
+   height: 400,
+   videoId: 'BNhpqhhTqHs',
+   playerVars: {
+       autoplay: 0,
+       color: 'white',
+       controls:0,
+       rel:0,
+       iv_load_policy: 3
+   },
+   events:{}
+
+ })
+};
+
+onYouTubeIframeAPIReady()
+
+</script>
+  </body>
+</html>

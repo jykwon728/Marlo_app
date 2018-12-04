@@ -1,0 +1,1008 @@
+{
+  "caption": [
+    {
+      "END_AT": 1,
+      "WORDS": [
+        {
+          "WORD": "caption start",
+          "WORD_TYPE": "NA",
+          "PRONOUNCIATION": "nothing",
+          "TRANSLATION": "nothing",
+          "BASEFORM": "nothing",
+          "TAG_IDX": -1
+        }
+      ],
+      "SENTENCE": "잠깐만요",
+      "TRANSLATION": "wait a second"
+    },
+    {
+      "END_AT": 4.95,
+      "WORDS": [
+        {
+          "WORD": "잠깐만요",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "jamkkanman-yo",
+          "TRANSLATION": "Wait",
+          "BASEFORM": "잠깐",
+          "TAG_IDX": 0
+        }
+      ],
+      "SENTENCE": "잠깐만요",
+      "TRANSLATION": "wait a second"
+    },
+    {
+      "END_AT": 10.04,
+      "WORDS": [
+        {
+          "WORD": "저",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "jeo",
+          "TRANSLATION": "that",
+          "BASEFORM": "저",
+          "TAG_IDX": 1
+        },
+        {
+          "WORD": "얘기",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "yaegi",
+          "TRANSLATION": "story",
+          "BASEFORM": "얘기",
+          "TAG_IDX": 2
+        },
+        {
+          "WORD": "아직",
+          "WORD_TYPE": "MAG",
+          "PRONOUNCIATION": "ajig",
+          "TRANSLATION": "yet",
+          "BASEFORM": "아직",
+          "TAG_IDX": 3
+        },
+        {
+          "WORD": "안",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "an",
+          "TRANSLATION": "within",
+          "BASEFORM": "안",
+          "TAG_IDX": 4
+        },
+        {
+          "WORD": "끝났...",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "kkeutnass...",
+          "TRANSLATION": "It's over ...",
+          "BASEFORM": "끝나",
+          "TAG_IDX": 5
+        }
+      ],
+      "SENTENCE": "저 얘기 아직 안 끝났...",
+      "TRANSLATION": "I am not done talking to you..."
+    },
+    {
+      "END_AT": 21.48,
+      "WORDS": [
+        {
+          "WORD": "너",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "neo",
+          "TRANSLATION": "you",
+          "BASEFORM": "널",
+          "TAG_IDX": 6
+        },
+        {
+          "WORD": "지금",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "jigeum",
+          "TRANSLATION": "now",
+          "BASEFORM": "지금",
+          "TAG_IDX": 7
+        },
+        {
+          "WORD": "저",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "jeo",
+          "TRANSLATION": "that",
+          "BASEFORM": "저",
+          "TAG_IDX": 8
+        },
+        {
+          "WORD": "문으로",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "mun-eulo",
+          "TRANSLATION": "At the door",
+          "BASEFORM": "문",
+          "TAG_IDX": 9
+        },
+        {
+          "WORD": "들어온거야?",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "deul-eoongeoya?",
+          "TRANSLATION": "Did you come in?",
+          "BASEFORM": "들어오",
+          "TAG_IDX": 10
+        }
+      ],
+      "SENTENCE": "너 지금 저 문으로 들어온거야?",
+      "TRANSLATION": "did you just come through that door?"
+    },
+    {
+      "END_AT": 22.82,
+      "WORDS": [
+        {
+          "WORD": "나",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "na",
+          "TRANSLATION": "I",
+          "BASEFORM": "나",
+          "TAG_IDX": 11
+        },
+        {
+          "WORD": "따라서?",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "ttalaseo?",
+          "TRANSLATION": "therefore?",
+          "BASEFORM": "따르",
+          "TAG_IDX": 12
+        }
+      ],
+      "SENTENCE": "나 따라서?",
+      "TRANSLATION": "following me?"
+    },
+    {
+      "END_AT": 25.51,
+      "WORDS": [
+        {
+          "WORD": "어떻게",
+          "WORD_TYPE": "VA",
+          "PRONOUNCIATION": "eotteohge",
+          "TRANSLATION": "how",
+          "BASEFORM": "어떻",
+          "TAG_IDX": 13
+        },
+        {
+          "WORD": "들어왔어?",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "deul-eowass-eo?",
+          "TRANSLATION": "Did you come in?",
+          "BASEFORM": "들어오",
+          "TAG_IDX": 14
+        }
+      ],
+      "SENTENCE": "어떻게 들어왔어?",
+      "TRANSLATION": "how did you get in here?"
+    },
+    {
+      "END_AT": 32.08,
+      "WORDS": [
+        {
+          "WORD": "손잡이를",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "sonjab-ileul",
+          "TRANSLATION": "Handle",
+          "BASEFORM": "손잡이",
+          "TAG_IDX": 15
+        },
+        {
+          "WORD": "잡는다.",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "jabneunda.",
+          "TRANSLATION": "Catch.",
+          "BASEFORM": "잡",
+          "TAG_IDX": 16
+        },
+        {
+          "WORD": "민다.",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "minda.",
+          "TRANSLATION": "It pushes.",
+          "BASEFORM": "밀",
+          "TAG_IDX": 17
+        },
+        {
+          "WORD": "아저씨를",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "ajeossileul",
+          "TRANSLATION": "You",
+          "BASEFORM": "아저씨",
+          "TAG_IDX": 18
+        },
+        {
+          "WORD": "따라",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "ttala",
+          "TRANSLATION": "follow",
+          "BASEFORM": "따르",
+          "TAG_IDX": 19
+        },
+        {
+          "WORD": "들어...",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "deul-eo...",
+          "TRANSLATION": "listen...",
+          "BASEFORM": "듣",
+          "TAG_IDX": 20
+        }
+      ],
+      "SENTENCE": "손잡이를 잡는다. 민다. 아저씨를 따라 들어...",
+      "TRANSLATION": "grab the door handle. push. follow you in here..."
+    },
+    {
+      "END_AT": 35.24,
+      "WORDS": [
+        {
+          "WORD": "근데",
+          "WORD_TYPE": "MAG",
+          "PRONOUNCIATION": "geunde",
+          "TRANSLATION": "by the way",
+          "BASEFORM": "근데",
+          "TAG_IDX": 21
+        },
+        {
+          "WORD": "여기",
+          "WORD_TYPE": "NP",
+          "PRONOUNCIATION": "yeogi",
+          "TRANSLATION": "here",
+          "BASEFORM": "여기",
+          "TAG_IDX": 22
+        },
+        {
+          "WORD": "왜",
+          "WORD_TYPE": "VA",
+          "PRONOUNCIATION": "wae",
+          "TRANSLATION": "Why",
+          "BASEFORM": "외",
+          "TAG_IDX": 23
+        },
+        {
+          "WORD": "이래요?",
+          "WORD_TYPE": "NNB",
+          "PRONOUNCIATION": "ilaeyo?",
+          "TRANSLATION": "Is this it?",
+          "BASEFORM": "이래",
+          "TAG_IDX": 24
+        }
+      ],
+      "SENTENCE": "근데 여기 왜 이래요?",
+      "TRANSLATION": "but what is going on here?"
+    },
+    {
+      "END_AT": 38.73,
+      "WORDS": [
+        {
+          "WORD": "그래서",
+          "WORD_TYPE": "MAC",
+          "PRONOUNCIATION": "geulaeseo",
+          "TRANSLATION": "so",
+          "BASEFORM": "그래서",
+          "TAG_IDX": 25
+        },
+        {
+          "WORD": "내가",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "naega",
+          "TRANSLATION": "I",
+          "BASEFORM": "내가",
+          "TAG_IDX": 26
+        },
+        {
+          "WORD": "묻잖아",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "mudjanh-a",
+          "TRANSLATION": "You ask.",
+          "BASEFORM": "묻",
+          "TAG_IDX": 27
+        },
+        {
+          "WORD": "저",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "jeo",
+          "TRANSLATION": "that",
+          "BASEFORM": "저",
+          "TAG_IDX": 28
+        },
+        {
+          "WORD": "문을",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "mun-eul",
+          "TRANSLATION": "Door",
+          "BASEFORM": "문",
+          "TAG_IDX": 29
+        },
+        {
+          "WORD": "어떻게",
+          "WORD_TYPE": "VA",
+          "PRONOUNCIATION": "eotteohge",
+          "TRANSLATION": "how",
+          "BASEFORM": "어떻",
+          "TAG_IDX": 30
+        },
+        {
+          "WORD": "통과한거야",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "tong-gwahangeoya",
+          "TRANSLATION": "I passed it.",
+          "BASEFORM": "통과",
+          "TAG_IDX": 31
+        },
+        {
+          "WORD": "대체?",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "daeche?",
+          "TRANSLATION": "how?",
+          "BASEFORM": "대체",
+          "TAG_IDX": 32
+        }
+      ],
+      "SENTENCE": "그래서 내가 묻잖아 저 문을 어떻게 통과한거야 대체?",
+      "TRANSLATION": "that is why I'm asking. How did you pass that door?"
+    },
+    {
+      "END_AT": 41.68,
+      "WORDS": [
+        {
+          "WORD": "아",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "a",
+          "TRANSLATION": "Ah",
+          "BASEFORM": "아",
+          "TAG_IDX": 33
+        },
+        {
+          "WORD": "파주인가?",
+          "WORD_TYPE": "NNP",
+          "PRONOUNCIATION": "paju inga?",
+          "TRANSLATION": "Is it Paju?",
+          "BASEFORM": "파주",
+          "TAG_IDX": 34
+        },
+        {
+          "WORD": "영어마을",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "yeong-eo ma-eul",
+          "TRANSLATION": "English town",
+          "BASEFORM": "영어",
+          "TAG_IDX": 35
+        },
+        {
+          "WORD": "거기?",
+          "WORD_TYPE": "NP",
+          "PRONOUNCIATION": "geogi?",
+          "TRANSLATION": "there?",
+          "BASEFORM": "거기",
+          "TAG_IDX": 36
+        }
+      ],
+      "SENTENCE": "아 파주인가? 영어마을 거기?",
+      "TRANSLATION": "ah is this Paju? the English village in Korea?"
+    },
+    {
+      "END_AT": 44.08,
+      "WORDS": [
+        {
+          "WORD": "근데",
+          "WORD_TYPE": "MAG",
+          "PRONOUNCIATION": "geunde",
+          "TRANSLATION": "by the way",
+          "BASEFORM": "근데",
+          "TAG_IDX": 37
+        },
+        {
+          "WORD": "거기래도",
+          "WORD_TYPE": "UN",
+          "PRONOUNCIATION": "geogilaedo",
+          "TRANSLATION": "There",
+          "BASEFORM": "거기래",
+          "TAG_IDX": 38
+        },
+        {
+          "WORD": "이상하지",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "isanghaji",
+          "TRANSLATION": "Strange",
+          "BASEFORM": "이상",
+          "TAG_IDX": 39
+        }
+      ],
+      "SENTENCE": "근데 거기래도 이상하지",
+      "TRANSLATION": "but it is still weird"
+    },
+    {
+      "END_AT": 47.31,
+      "WORDS": [
+        {
+          "WORD": "여기",
+          "WORD_TYPE": "NP",
+          "PRONOUNCIATION": "yeogi",
+          "TRANSLATION": "here",
+          "BASEFORM": "여기",
+          "TAG_IDX": 40
+        },
+        {
+          "WORD": "대체",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "daeche",
+          "TRANSLATION": "how",
+          "BASEFORM": "대체",
+          "TAG_IDX": 41
+        },
+        {
+          "WORD": "어떻게",
+          "WORD_TYPE": "VA",
+          "PRONOUNCIATION": "eotteohge",
+          "TRANSLATION": "how",
+          "BASEFORM": "어떻",
+          "TAG_IDX": 42
+        },
+        {
+          "WORD": "된",
+          "WORD_TYPE": "VA",
+          "PRONOUNCIATION": "doen",
+          "TRANSLATION": "The",
+          "BASEFORM": "되",
+          "TAG_IDX": 43
+        },
+        {
+          "WORD": "거에요",
+          "WORD_TYPE": "NNB",
+          "PRONOUNCIATION": "geoeyo",
+          "TRANSLATION": "It is.",
+          "BASEFORM": "거",
+          "TAG_IDX": 44
+        },
+        {
+          "WORD": "여기",
+          "WORD_TYPE": "NP",
+          "PRONOUNCIATION": "yeogi",
+          "TRANSLATION": "here",
+          "BASEFORM": "여기",
+          "TAG_IDX": 45
+        },
+        {
+          "WORD": "어디에요",
+          "WORD_TYPE": "NP",
+          "PRONOUNCIATION": "eodieyo",
+          "TRANSLATION": "where are you",
+          "BASEFORM": "어디",
+          "TAG_IDX": 46
+        },
+        {
+          "WORD": "대체?",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "daeche?",
+          "TRANSLATION": "how?",
+          "BASEFORM": "대체",
+          "TAG_IDX": 47
+        }
+      ],
+      "SENTENCE": "여기 대체 어떻게 된 거에요 여기 어디에요 대체?",
+      "TRANSLATION": "what happened here? where is this place?"
+    },
+    {
+      "END_AT": 48.6,
+      "WORDS": [
+        {
+          "WORD": "캐나다",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "-",
+          "TRANSLATION": "-",
+          "BASEFORM": "캐나다",
+          "TAG_IDX": 48
+        }
+      ],
+      "SENTENCE": "캐나다",
+      "TRANSLATION": "Canada"
+    },
+    {
+      "END_AT": 49.95,
+      "WORDS": [
+        {
+          "WORD": "캐나다요?",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "-",
+          "TRANSLATION": "-",
+          "BASEFORM": "캐나다",
+          "TAG_IDX": 49
+        }
+      ],
+      "SENTENCE": "캐나다요?",
+      "TRANSLATION": "Canada?"
+    },
+    {
+      "END_AT": 58.22,
+      "WORDS": [
+        {
+          "WORD": "캐나다면...그",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "kaenadamyeon...geu",
+          "TRANSLATION": "If you are in Canada ...",
+          "BASEFORM": "캐나다",
+          "TAG_IDX": 50
+        },
+        {
+          "WORD": "단풍국?",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "danpung-gug?",
+          "TRANSLATION": "Autumn leaves?",
+          "BASEFORM": "단풍",
+          "TAG_IDX": 51
+        },
+        {
+          "WORD": "막",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "mag",
+          "TRANSLATION": "membrane",
+          "BASEFORM": "막",
+          "TAG_IDX": 52
+        },
+        {
+          "WORD": "오로라",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "olola",
+          "TRANSLATION": "Aurora",
+          "BASEFORM": "오로라",
+          "TAG_IDX": 53
+        },
+        {
+          "WORD": "거기?",
+          "WORD_TYPE": "NP",
+          "PRONOUNCIATION": "geogi?",
+          "TRANSLATION": "there?",
+          "BASEFORM": "거기",
+          "TAG_IDX": 54
+        }
+      ],
+      "SENTENCE": "캐나다면...그 단풍국? 막 오로라 거기?",
+      "TRANSLATION": "Canada...the country of the maples? the place with aurora?"
+    },
+    {
+      "END_AT": 60.82,
+      "WORDS": [
+        {
+          "WORD": "여기",
+          "WORD_TYPE": "NP",
+          "PRONOUNCIATION": "yeogi",
+          "TRANSLATION": "here",
+          "BASEFORM": "여기",
+          "TAG_IDX": 55
+        },
+        {
+          "WORD": "여기",
+          "WORD_TYPE": "NP",
+          "PRONOUNCIATION": "yeogi",
+          "TRANSLATION": "here",
+          "BASEFORM": "여기",
+          "TAG_IDX": 56
+        },
+        {
+          "WORD": "진짜",
+          "WORD_TYPE": "MAG",
+          "PRONOUNCIATION": "jinjja",
+          "TRANSLATION": "Really",
+          "BASEFORM": "진짜",
+          "TAG_IDX": 57
+        },
+        {
+          "WORD": "외국이에요?",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "oegug-ieyo?",
+          "TRANSLATION": "Is it foreign?",
+          "BASEFORM": "외국",
+          "TAG_IDX": 58
+        }
+      ],
+      "SENTENCE": "여기 여기 진짜 외국이에요?",
+      "TRANSLATION": "are we really in a foreign country?"
+    },
+    {
+      "END_AT": 71.66,
+      "WORDS": [
+        {
+          "WORD": "대박",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "daebag",
+          "TRANSLATION": "Jackpot",
+          "BASEFORM": "대박",
+          "TAG_IDX": 59
+        },
+        {
+          "WORD": "아저씨",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "ajeossi",
+          "TRANSLATION": "Mister",
+          "BASEFORM": "아저씨",
+          "TAG_IDX": 60
+        },
+        {
+          "WORD": "이런",
+          "WORD_TYPE": "MDT",
+          "PRONOUNCIATION": "ileon",
+          "TRANSLATION": "this",
+          "BASEFORM": "이런",
+          "TAG_IDX": 61
+        },
+        {
+          "WORD": "능력도",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "neunglyeogdo",
+          "TRANSLATION": "Ability",
+          "BASEFORM": "능력",
+          "TAG_IDX": 62
+        },
+        {
+          "WORD": "있었어요?",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "iss-eoss-eoyo?",
+          "TRANSLATION": "Did you have it?",
+          "BASEFORM": "있",
+          "TAG_IDX": 63
+        }
+      ],
+      "SENTENCE": "대박 아저씨 이런 능력도 있었어요?",
+      "TRANSLATION": "Unbelievable, you have this kinda of power?"
+    },
+    {
+      "END_AT": 74.86,
+      "WORDS": [
+        {
+          "WORD": "너도",
+          "WORD_TYPE": "NP",
+          "PRONOUNCIATION": "neodo",
+          "TRANSLATION": "you too",
+          "BASEFORM": "너",
+          "TAG_IDX": 64
+        },
+        {
+          "WORD": "있네",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "issne",
+          "TRANSLATION": "It is.",
+          "BASEFORM": "있",
+          "TAG_IDX": 65
+        },
+        {
+          "WORD": "너",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "neo",
+          "TRANSLATION": "you",
+          "BASEFORM": "널",
+          "TAG_IDX": 66
+        },
+        {
+          "WORD": "진짜",
+          "WORD_TYPE": "MAG",
+          "PRONOUNCIATION": "jinjja",
+          "TRANSLATION": "Really",
+          "BASEFORM": "진짜",
+          "TAG_IDX": 67
+        },
+        {
+          "WORD": "뭐지",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "mwoji",
+          "TRANSLATION": "What",
+          "BASEFORM": "무엇",
+          "TAG_IDX": 68
+        }
+      ],
+      "SENTENCE": "너도 있네 너 진짜 뭐지",
+      "TRANSLATION": "you have it too. what are you?"
+    },
+    {
+      "END_AT": 79.28,
+      "WORDS": [
+        {
+          "WORD": "여기가",
+          "WORD_TYPE": "NP",
+          "PRONOUNCIATION": "yeogiga",
+          "TRANSLATION": "here",
+          "BASEFORM": "여기",
+          "TAG_IDX": 69
+        },
+        {
+          "WORD": "진짜",
+          "WORD_TYPE": "MAG",
+          "PRONOUNCIATION": "jinjja",
+          "TRANSLATION": "Really",
+          "BASEFORM": "진짜",
+          "TAG_IDX": 70
+        },
+        {
+          "WORD": "캐나다고",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "kaenadago",
+          "TRANSLATION": "Canadian high school",
+          "BASEFORM": "캐나다",
+          "TAG_IDX": 71
+        },
+        {
+          "WORD": "아저씨",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "ajeossi",
+          "TRANSLATION": "Mister",
+          "BASEFORM": "아저씨",
+          "TAG_IDX": 72
+        },
+        {
+          "WORD": "능력이",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "neunglyeog-i",
+          "TRANSLATION": "Ability",
+          "BASEFORM": "능력",
+          "TAG_IDX": 73
+        },
+        {
+          "WORD": "이정도면",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "ijeongdomyeon",
+          "TRANSLATION": "This plane",
+          "BASEFORM": "정도",
+          "TAG_IDX": 74
+        }
+      ],
+      "SENTENCE": "여기가 진짜 캐나다고 아저씨 능력이 이정도면",
+      "TRANSLATION": "if this is really Canada and if this is your power,"
+    },
+    {
+      "END_AT": 80.75,
+      "WORDS": [
+        {
+          "WORD": "저",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "jeo",
+          "TRANSLATION": "that",
+          "BASEFORM": "저",
+          "TAG_IDX": 75
+        },
+        {
+          "WORD": "결심했어요",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "gyeolsimhaess-eoyo",
+          "TRANSLATION": "I made up my mind.",
+          "BASEFORM": "결심",
+          "TAG_IDX": 76
+        }
+      ],
+      "SENTENCE": "저 결심했어요",
+      "TRANSLATION": "I made up my mind"
+    },
+    {
+      "END_AT": 83.28,
+      "WORDS": [
+        {
+          "WORD": "뭘?",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "mwol?",
+          "TRANSLATION": "What?",
+          "BASEFORM": "무엇",
+          "TAG_IDX": 77
+        }
+      ],
+      "SENTENCE": "뭘?",
+      "TRANSLATION": "mind for what?"
+    },
+    {
+      "END_AT": 84.37,
+      "WORDS": [
+        {
+          "WORD": "마음",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "ma-eum",
+          "TRANSLATION": "mind",
+          "BASEFORM": "마음",
+          "TAG_IDX": 78
+        },
+        {
+          "WORD": "먹었어요",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "meog-eoss-eoyo",
+          "TRANSLATION": "Ate",
+          "BASEFORM": "먹",
+          "TAG_IDX": 79
+        },
+        {
+          "WORD": "제가",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "jega",
+          "TRANSLATION": "I",
+          "BASEFORM": "제가",
+          "TAG_IDX": 80
+        }
+      ],
+      "SENTENCE": "마음 먹었어요 제가",
+      "TRANSLATION": "I am determined"
+    },
+    {
+      "END_AT": 85.37,
+      "WORDS": [
+        {
+          "WORD": "뭐",
+          "WORD_TYPE": "NP",
+          "PRONOUNCIATION": "mwo",
+          "TRANSLATION": "What",
+          "BASEFORM": "뭐",
+          "TAG_IDX": 81
+        },
+        {
+          "WORD": "뭘?",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "mwol?",
+          "TRANSLATION": "What?",
+          "BASEFORM": "무엇",
+          "TAG_IDX": 82
+        }
+      ],
+      "SENTENCE": "뭐 뭘?",
+      "TRANSLATION": "for, for what?"
+    },
+    {
+      "END_AT": 86.97,
+      "WORDS": [
+        {
+          "WORD": "저",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "jeo",
+          "TRANSLATION": "that",
+          "BASEFORM": "저",
+          "TAG_IDX": 83
+        },
+        {
+          "WORD": "시집갈게요",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "sijibgalgeyo",
+          "TRANSLATION": "I'll marry you.",
+          "BASEFORM": "시집가",
+          "TAG_IDX": 84
+        },
+        {
+          "WORD": "아저씨",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "ajeossi",
+          "TRANSLATION": "Mister",
+          "BASEFORM": "아저씨",
+          "TAG_IDX": 85
+        },
+        {
+          "WORD": "한테",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "hante",
+          "TRANSLATION": "to",
+          "BASEFORM": "하",
+          "TAG_IDX": 86
+        }
+      ],
+      "SENTENCE": "저 시집갈게요 아저씨 한테",
+      "TRANSLATION": "I will get married to you"
+    },
+    {
+      "END_AT": 90.44,
+      "WORDS": [
+        {
+          "WORD": "난",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "nan",
+          "TRANSLATION": "I",
+          "BASEFORM": "난",
+          "TAG_IDX": 87
+        },
+        {
+          "WORD": "암만",
+          "WORD_TYPE": "MAG",
+          "PRONOUNCIATION": "amman",
+          "TRANSLATION": "Amman",
+          "BASEFORM": "암만",
+          "TAG_IDX": 88
+        },
+        {
+          "WORD": "생각해도",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "saeng-gaghaedo",
+          "TRANSLATION": "I think",
+          "BASEFORM": "생각",
+          "TAG_IDX": 89
+        },
+        {
+          "WORD": "아저씨가",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "ajeossiga",
+          "TRANSLATION": "Uncle",
+          "BASEFORM": "아저씨",
+          "TAG_IDX": 90
+        },
+        {
+          "WORD": "도깨비",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "dokkaebi",
+          "TRANSLATION": "Goblin",
+          "BASEFORM": "도깨비",
+          "TAG_IDX": 91
+        },
+        {
+          "WORD": "맞는",
+          "WORD_TYPE": "VV",
+          "PRONOUNCIATION": "majneun",
+          "TRANSLATION": "right",
+          "BASEFORM": "맞",
+          "TAG_IDX": 92
+        },
+        {
+          "WORD": "거",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "geo",
+          "TRANSLATION": "roughness",
+          "BASEFORM": "거",
+          "TAG_IDX": 93
+        },
+        {
+          "WORD": "같거든요",
+          "WORD_TYPE": "VA",
+          "PRONOUNCIATION": "gatgeodeun-yo",
+          "TRANSLATION": "It's the same.",
+          "BASEFORM": "같",
+          "TAG_IDX": 94
+        }
+      ],
+      "SENTENCE": "난 암만 생각해도 아저씨가 도깨비 맞는 거 같거든요",
+      "TRANSLATION": "because I think you really are the goblin"
+    },
+    {
+      "END_AT": 92.571,
+      "WORDS": [
+        {
+          "WORD": "사랑해요",
+          "WORD_TYPE": "NNG",
+          "PRONOUNCIATION": "salanghaeyo",
+          "TRANSLATION": "I love you",
+          "BASEFORM": "사랑",
+          "TAG_IDX": 95
+        }
+      ],
+      "SENTENCE": "사랑해요",
+      "TRANSLATION": "Love you"
+    }
+  ],
+  "lesson_content":[
+    { "VID": 2,
+      "SentenceIDX": 0,
+      "ID": 3,
+      "TITLE": "-만, only -",
+      "LessonType": "grammar",
+      "Equation": "noun + 만 + ending",
+      "Description": "만 is used to express the mereness or relative insignificance of the following object. This is similar to the expression of 'it is only a penny' or 'it is just a piece of paper'.",
+      "Elements": {"Kor": "-만", "Eng": ["just","only"]},
+      "tag": "epc",
+
+     "UsageCase": {
+        "main_case" :
+          {"sentence":"잠깐만요",
+          "lesson_element": "만",
+  				"peripheral_element": {
+  				    "left_side_element": "잠깐","left_side_element_full form": null, "right_side_element": "요", "right_side_element_fullform": null}
+            },
+
+        "other_case": [
+          {"sentence":"한번만요",
+            "translation": "just once",
+            "lesson_element": "만",
+    				"peripheral_element": {
+    				    "left_side_element": "한 번","left_side_element_fullform": "하나 번 째", "left_side_element_def": "once", "right_side_element": "요", "right_side_element_fullform": "-요", "right_side_element_def": "honorific"},
+            "source": {
+              "vid_id":"ShZ93ceEUs8",
+              "viewed_date":"2018-11-07",
+              "timestamp":{"start":"14", "end":"18"}
+            }
+          },
+          {"sentence":"한시간만요",
+            "translation": "just one hour",
+            "lesson_element": "만",
+    				"peripheral_element": {
+    				    "left_side_element": "한 시간","left_side_element_fullform": "하나 시간", "left_side_element_def": "one hour", "right_side_element": "요", "right_side_element_fullform": "-요", "right_side_element_def": "honorific"},
+            "source": {
+              "vid_id":"o8NPllzkFhE",
+              "viewed_date":"2018-11-07",
+              "timestamp":{"start":"24", "end":"28"}
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

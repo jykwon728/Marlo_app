@@ -1,0 +1,1259 @@
+{
+  "caption":[
+  {
+    "TRANSLATION": "The report is well prepared",
+    "END_AT": 2.5,
+    "WORDS": [
+      {
+        "TRANSLATION": "Preparations",
+        "WORD": "준비가",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "junbi"
+      },
+      {
+        "TRANSLATION": "Pretty",
+        "WORD": "상당히",
+        "WORD_TYPE": "adv.",
+        "PRONOUNCIATION": "sangdanghi"
+      },
+      {
+        "TRANSLATION": "well",
+        "WORD": "잘",
+        "WORD_TYPE": "adv.",
+        "PRONOUNCIATION": "jal"
+      },
+      {
+        "TRANSLATION": "The",
+        "WORD": "된",
+        "WORD_TYPE": "v.",
+        "PRONOUNCIATION": "doen"
+      },
+      {
+        "TRANSLATION": "It's a report.",
+        "WORD": "보고인데",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "bogoinde"
+      }
+    ],
+    "SENTENCE": "준비가 상당히 잘 된 보고인데"
+  },
+  {
+    "TRANSLATION": "How did your team handle it?",
+    "END_AT": 5.6,
+    "WORDS": [
+      {
+        "TRANSLATION": "sales",
+        "WORD": "영업",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "yeong-eob"
+      },
+      {
+        "TRANSLATION": "3 teams",
+        "WORD": "3팀",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "3tim"
+      },
+      {
+        "TRANSLATION": "itself",
+        "WORD": "자체로",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "jache"
+      },
+      {
+        "TRANSLATION": "Cover",
+        "WORD": "감당이",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "gamdang"
+      },
+      {
+        "TRANSLATION": "Was it?",
+        "WORD": "되던가?",
+        "WORD_TYPE": "v.",
+        "PRONOUNCIATION": "doedeon?"
+      }
+    ],
+    "SENTENCE": "영업 3팀 자체로 감당이 되던가?"
+  },
+  {
+    "TRANSLATION": "Yes Sir,",
+    "END_AT": 7.09,
+    "WORDS": [
+      {
+        "TRANSLATION": "Yeah",
+        "WORD": "네",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "ne"
+      }
+    ],
+    "SENTENCE": "네"
+  },
+  {
+    "TRANSLATION": "The support team in Jordan",
+    "END_AT": 9.18,
+    "WORDS": [
+      {
+        "TRANSLATION": "Jordan",
+        "WORD": "요르단",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "yoleudan"
+      },
+      {
+        "TRANSLATION": "Local team",
+        "WORD": "현지팀의",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "hyeonji tim"
+      },
+      {
+        "TRANSLATION": "cellar",
+        "WORD": "도움도",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "um"
+      },
+      {
+        "TRANSLATION": "It was big",
+        "WORD": "컸습니다",
+        "WORD_TYPE": "adj.",
+        "PRONOUNCIATION": "keossseubnida"
+      }
+    ],
+    "SENTENCE": "요르단 현지팀의 도움도 컸습니다"
+  },
+  {
+    "TRANSLATION": "was a huge help",
+    "END_AT": 9.95,
+    "WORDS": [
+      {
+        "TRANSLATION": "Jordan",
+        "WORD": "요르단",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "yoleudan"
+      },
+      {
+        "TRANSLATION": "Local team",
+        "WORD": "현지팀의",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "hyeonji tim"
+      },
+      {
+        "TRANSLATION": "cellar",
+        "WORD": "도움도",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "um"
+      },
+      {
+        "TRANSLATION": "It was big",
+        "WORD": "컸습니다",
+        "WORD_TYPE": "adj.",
+        "PRONOUNCIATION": "keossseubnida"
+      }
+    ],
+    "SENTENCE": "요르단 현지팀의 도움도 컸습니다"
+  },
+  {
+    "TRANSLATION": "But, the one who proposed",
+    "END_AT": 13.44,
+    "WORDS": [
+      {
+        "TRANSLATION": "by the way",
+        "WORD": "근데",
+        "WORD_TYPE": "adv.",
+        "PRONOUNCIATION": "geunde"
+      },
+      {
+        "TRANSLATION": "Translation",
+        "WORD": "이",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": ""
+      },
+      {
+        "TRANSLATION": "business",
+        "WORD": "사업을",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "sa-eob"
+      },
+      {
+        "TRANSLATION": "Let's do it again.",
+        "WORD": "다시하자고",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "dasihajago"
+      },
+      {
+        "TRANSLATION": "Proposed",
+        "WORD": "제안한",
+        "WORD_TYPE": "v.",
+        "PRONOUNCIATION": "jeanhan"
+      },
+      {
+        "TRANSLATION": "Person",
+        "WORD": "사람이",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "salam"
+      }
+    ],
+    "SENTENCE": "근데 이 사업을 다시하자고 제안한 사람이"
+  },
+  {
+    "TRANSLATION": "resuming this risky project",
+    "END_AT": 15.09,
+    "WORDS": [
+      {
+        "TRANSLATION": "by the way",
+        "WORD": "근데",
+        "WORD_TYPE": "adv.",
+        "PRONOUNCIATION": "geunde"
+      },
+      {
+        "TRANSLATION": "Translation",
+        "WORD": "이",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": ""
+      },
+      {
+        "TRANSLATION": "business",
+        "WORD": "사업을",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "sa-eob"
+      },
+      {
+        "TRANSLATION": "Let's do it again.",
+        "WORD": "다시하자고",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "dasihajago"
+      },
+      {
+        "TRANSLATION": "Proposed",
+        "WORD": "제안한",
+        "WORD_TYPE": "v.",
+        "PRONOUNCIATION": "jeanhan"
+      },
+      {
+        "TRANSLATION": "Person",
+        "WORD": "사람이",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "salam"
+      }
+    ],
+    "SENTENCE": "근데 이 사업을 다시하자고 제안한 사람이"
+  },
+  {
+    "TRANSLATION": "resuming this risky project",
+    "END_AT": 15.11,
+    "WORDS": [
+      {
+        "TRANSLATION": "by the way",
+        "WORD": "근데",
+        "WORD_TYPE": "adv.",
+        "PRONOUNCIATION": "geunde"
+      },
+      {
+        "TRANSLATION": "Translation",
+        "WORD": "이",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": ""
+      },
+      {
+        "TRANSLATION": "business",
+        "WORD": "사업을",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "sa-eob"
+      },
+      {
+        "TRANSLATION": "Let's do it again.",
+        "WORD": "다시하자고",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "dasihajago"
+      },
+      {
+        "TRANSLATION": "Proposed",
+        "WORD": "제안한",
+        "WORD_TYPE": "v.",
+        "PRONOUNCIATION": "jeanhan"
+      },
+      {
+        "TRANSLATION": "Person",
+        "WORD": "사람이",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "salam"
+      }
+    ],
+    "SENTENCE": "근데 이 사업을 다시하자고 제안한 사람이"
+  },
+  {
+    "TRANSLATION": "is the team's youngest?",
+    "END_AT": 16.84,
+    "WORDS": [
+      {
+        "TRANSLATION": "That",
+        "WORD": "그",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "geu"
+      },
+      {
+        "TRANSLATION": "team",
+        "WORD": "팀",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "tim"
+      },
+      {
+        "TRANSLATION": "You're the youngest?",
+        "WORD": "막내라면서?",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "magnaelamyeonseo?"
+      }
+    ],
+    "SENTENCE": "그 팀 막내라면서?"
+  },
+  {
+    "TRANSLATION": "Yes, the new recruit, Jang Gu-Rae",
+    "END_AT": 21.38,
+    "WORDS": [
+      {
+        "TRANSLATION": "Yeah",
+        "WORD": "네,",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "ne"
+      },
+      {
+        "TRANSLATION": "New recruits",
+        "WORD": "신입사원",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "sin-ibsawon"
+      },
+      {
+        "TRANSLATION": "Zhang Greer",
+        "WORD": "장그레입니다",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "jang-geuleibnida"
+      }
+    ],
+    "SENTENCE": "네, 신입사원 장그레입니다"
+  },
+  {
+    "TRANSLATION": "His name is Gu-rae?",
+    "END_AT": 24.67,
+    "WORDS": [
+      {
+        "TRANSLATION": "The",
+        "WORD": "이름이",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "leum"
+      },
+      {
+        "TRANSLATION": "UNKNOWN",
+        "WORD": "그래야?",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "UNKNOWN"
+      },
+      {
+        "TRANSLATION": "Jean?",
+        "WORD": "장그래라고?",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "jang-geulaelago?"
+      }
+    ],
+    "SENTENCE": "이름이 그래야? 장그래라고?"
+  },
+  {
+    "TRANSLATION": "where? where is he?",
+    "END_AT": 29.58,
+    "WORDS": [
+      {
+        "TRANSLATION": "where?",
+        "WORD": "어디야?",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "eodi?"
+      },
+      {
+        "TRANSLATION": "Where is it?",
+        "WORD": "어딨어?",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "eodiss-eo?"
+      }
+    ],
+    "SENTENCE": "어디야? 어딨어?"
+  },
+  {
+    "TRANSLATION": "Hello sir, Hello sir",
+    "END_AT": 32.58,
+    "WORDS": [
+      {
+        "TRANSLATION": "Hello",
+        "WORD": "안녕하십니까",
+        "WORD_TYPE": "adj.",
+        "PRONOUNCIATION": "annyeonghasibnikka"
+      },
+      {
+        "TRANSLATION": "Hello",
+        "WORD": "안녕하십니까",
+        "WORD_TYPE": "adj.",
+        "PRONOUNCIATION": "annyeonghasibnikka"
+      }
+    ],
+    "SENTENCE": "안녕하십니까 안녕하십니까"
+  },
+  {
+    "TRANSLATION": "You are fearless",
+    "END_AT": 37.22,
+    "WORDS": [
+      {
+        "TRANSLATION": "cowardice",
+        "WORD": "겁이",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "geob"
+      },
+      {
+        "TRANSLATION": "Nothing.",
+        "WORD": "없구만",
+        "WORD_TYPE": "v.",
+        "PRONOUNCIATION": "eobsgu"
+      }
+    ],
+    "SENTENCE": "겁이 없구만"
+  },
+  {
+    "TRANSLATION": "right?",
+    "END_AT": 40.13,
+    "WORDS": [
+      {
+        "TRANSLATION": "UNKNOWN",
+        "WORD": "그래?",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "UNKNOWN"
+      }
+    ],
+    "SENTENCE": "그래?"
+  },
+  {
+    "TRANSLATION": "Yes sir!",
+    "END_AT": 41.22,
+    "WORDS": [
+      {
+        "TRANSLATION": "Yes!",
+        "WORD": "예!",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "ye!"
+      }
+    ],
+    "SENTENCE": "예!"
+  },
+  {
+    "TRANSLATION": "But what made you propose this?",
+    "END_AT": 49.78,
+    "WORDS": [
+      {
+        "TRANSLATION": "no",
+        "WORD": "아니",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "ani"
+      },
+      {
+        "TRANSLATION": "by the way",
+        "WORD": "근데",
+        "WORD_TYPE": "adv.",
+        "PRONOUNCIATION": "geunde"
+      },
+      {
+        "TRANSLATION": "Why",
+        "WORD": "왜",
+        "WORD_TYPE": "adv.",
+        "PRONOUNCIATION": "wae"
+      },
+      {
+        "TRANSLATION": "Run",
+        "WORD": "이런",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "leon"
+      },
+      {
+        "TRANSLATION": "suggestion",
+        "WORD": "제안을",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "jean"
+      },
+      {
+        "TRANSLATION": "to do",
+        "WORD": "하게",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "hage"
+      },
+      {
+        "TRANSLATION": "OK?",
+        "WORD": "됐지?",
+        "WORD_TYPE": "v.",
+        "PRONOUNCIATION": "dwaessji?"
+      }
+    ],
+    "SENTENCE": "아니 근데 왜 이런 제안을 하게 됐지?"
+  },
+  {
+    "TRANSLATION": "that is, that is...",
+    "END_AT": 57.87,
+    "WORDS": [
+      {
+        "TRANSLATION": "that's",
+        "WORD": "그건",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "geugeon"
+      },
+      {
+        "TRANSLATION": "that's...",
+        "WORD": "그건...",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "geugeon..."
+      }
+    ],
+    "SENTENCE": "그건 그건..."
+  },
+  {
+    "TRANSLATION": "that is",
+    "END_AT": 61.16,
+    "WORDS": [
+      {
+        "TRANSLATION": "that's",
+        "WORD": "그건",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "geugeon"
+      }
+    ],
+    "SENTENCE": "그건"
+  },
+  {
+    "TRANSLATION": "because this is our company",
+    "END_AT": 69.02,
+    "WORDS": [
+      {
+        "TRANSLATION": "Us",
+        "WORD": "우리",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "uli"
+      },
+      {
+        "TRANSLATION": "Company",
+        "WORD": "회사이기",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "hoesagi"
+      },
+      {
+        "TRANSLATION": "because of",
+        "WORD": "때문입니다",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "ttaemun-ibnida"
+      }
+    ],
+    "SENTENCE": "우리 회사이기 때문입니다"
+  },
+  {
+    "TRANSLATION": "hmm our company...",
+    "END_AT": 72.33,
+    "WORDS": [
+      {
+        "TRANSLATION": "Uh",
+        "WORD": "으음",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "eueum"
+      },
+      {
+        "TRANSLATION": "Us",
+        "WORD": "우리",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "uli"
+      },
+      {
+        "TRANSLATION": "Company LA",
+        "WORD": "회사라",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "hoesala"
+      }
+    ],
+    "SENTENCE": "으음 우리 회사라"
+  },
+  {
+    "TRANSLATION": "Our company?",
+    "END_AT": 76.42,
+    "WORDS": [
+      {
+        "TRANSLATION": "Us",
+        "WORD": "우리",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "uli"
+      },
+      {
+        "TRANSLATION": "company?",
+        "WORD": "회사?",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "hoesa?"
+      }
+    ],
+    "SENTENCE": "우리 회사?"
+  },
+  {
+    "TRANSLATION": "Yes sir, our company",
+    "END_AT": 81.31,
+    "WORDS": [
+      {
+        "TRANSLATION": "Yes",
+        "WORD": "예",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "ye"
+      },
+      {
+        "TRANSLATION": "Us",
+        "WORD": "우리",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "uli"
+      },
+      {
+        "TRANSLATION": "Company",
+        "WORD": "회사요",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "hoesayo"
+      }
+    ],
+    "SENTENCE": "예 우리 회사요"
+  },
+  {
+    "TRANSLATION": "hahaha right, it is our company not anyone else's",
+    "END_AT": 97.09,
+    "WORDS": [
+      {
+        "TRANSLATION": "Hahaha",
+        "WORD": "하하하",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "hahaha"
+      },
+      {
+        "TRANSLATION": "UNKNOWN",
+        "WORD": "그래",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "UNKNOWN"
+      },
+      {
+        "TRANSLATION": "Us",
+        "WORD": "우리",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "uli"
+      },
+      {
+        "TRANSLATION": "Company land",
+        "WORD": "회사지",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "hoesaji"
+      },
+      {
+        "TRANSLATION": "south",
+        "WORD": "남의",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "nam"
+      },
+      {
+        "TRANSLATION": "UNKNOWN",
+        "WORD": "회사인가?",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "UNKNOWN"
+      }
+    ],
+    "SENTENCE": "하하하 그래 우리 회사지 남의 회사인가?"
+  },
+  {
+    "TRANSLATION": "its a cliche thing to say",
+    "END_AT": 101.89,
+    "WORDS": [
+      {
+        "TRANSLATION": "bald",
+        "WORD": "뻔한",
+        "WORD_TYPE": "adj.",
+        "PRONOUNCIATION": "ppeonhan"
+      },
+      {
+        "TRANSLATION": "Speaking of",
+        "WORD": "말인데",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "mal-inde"
+      }
+    ],
+    "SENTENCE": "뻔한 말인데"
+  },
+  {
+    "TRANSLATION": "but it makes us feel shameful",
+    "END_AT": 106.11,
+    "WORDS": [
+      {
+        "TRANSLATION": "Somehow",
+        "WORD": "왠지",
+        "WORD_TYPE": "adv.",
+        "PRONOUNCIATION": "waenji"
+      },
+      {
+        "TRANSLATION": "Us",
+        "WORD": "우리가",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "uli"
+      },
+      {
+        "TRANSLATION": "A little",
+        "WORD": "좀",
+        "WORD_TYPE": "adv.",
+        "PRONOUNCIATION": "jom"
+      },
+      {
+        "TRANSLATION": "Saltiness",
+        "WORD": "염치",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "yeomchi"
+      },
+      {
+        "TRANSLATION": "No",
+        "WORD": "없게",
+        "WORD_TYPE": "v.",
+        "PRONOUNCIATION": "eobsge"
+      },
+      {
+        "TRANSLATION": "I feel it.",
+        "WORD": "느껴지네요",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "neukkyeojineyo"
+      }
+    ],
+    "SENTENCE": "왠지 우리가 좀 염치 없게 느껴지네요"
+  },
+  {
+    "TRANSLATION": "I know right?",
+    "END_AT": 108.64,
+    "WORDS": [
+      {
+        "TRANSLATION": "Yeah",
+        "WORD": "그러게",
+        "WORD_TYPE": "adv.",
+        "PRONOUNCIATION": "geuleoge"
+      },
+      {
+        "TRANSLATION": "Words",
+        "WORD": "말이야",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "mal"
+      }
+    ],
+    "SENTENCE": "그러게 말이야"
+  },
+  {
+    "TRANSLATION": "Gu-Rae, Thank you",
+    "END_AT": 113.16,
+    "WORDS": [
+      {
+        "TRANSLATION": "UNKNOWN",
+        "WORD": "그래,",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "UNKNOWN"
+      },
+      {
+        "TRANSLATION": "Thank you.",
+        "WORD": "고맙네",
+        "WORD_TYPE": "adj.",
+        "PRONOUNCIATION": "gomabne"
+      }
+    ],
+    "SENTENCE": "그래, 고맙네"
+  },
+  {
+    "TRANSLATION": "Thank you sir",
+    "END_AT": 117.02,
+    "WORDS": [
+      {
+        "TRANSLATION": "Thank you",
+        "WORD": "감사합니다",
+        "WORD_TYPE": "v.",
+        "PRONOUNCIATION": "gamsahabnida"
+      }
+    ],
+    "SENTENCE": "감사합니다"
+  },
+  {
+    "TRANSLATION": "The 'Used Car Export Business' in Jordan",
+    "END_AT": 122.29,
+    "WORDS": [
+      {
+        "TRANSLATION": "Uh ... Jordan",
+        "WORD": "어...요르단",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "eo...yoleudan"
+      },
+      {
+        "TRANSLATION": "used car",
+        "WORD": "중고차",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "jung-gocha"
+      },
+      {
+        "TRANSLATION": "Export business",
+        "WORD": "수출사업은",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "suchulsa-eob"
+      }
+    ],
+    "SENTENCE": "어...요르단 중고차 수출사업은"
+  },
+  {
+    "TRANSLATION": "Initiate it and bring result",
+    "END_AT": 126.11,
+    "WORDS": [
+      {
+        "TRANSLATION": "exactly",
+        "WORD": "꼭",
+        "WORD_TYPE": "adv.",
+        "PRONOUNCIATION": "kkog"
+      },
+      {
+        "TRANSLATION": "UNKNOWN",
+        "WORD": "성과를",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "UNKNOWN"
+      },
+      {
+        "TRANSLATION": "Out",
+        "WORD": "낼",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "nael"
+      },
+      {
+        "TRANSLATION": "Number",
+        "WORD": "수",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "su"
+      },
+      {
+        "TRANSLATION": "A",
+        "WORD": "있도록",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "isslog"
+      }
+    ],
+    "SENTENCE": "꼭 성과를 낼 수 있도록"
+  },
+  {
+    "TRANSLATION": "Thank you Sir",
+    "END_AT": 132.64,
+    "WORDS": [
+      {
+        "TRANSLATION": "Thank you",
+        "WORD": "감사합니다",
+        "WORD_TYPE": "v.",
+        "PRONOUNCIATION": "gamsahabnida"
+      }
+    ],
+    "SENTENCE": "감사합니다"
+  },
+  {
+    "TRANSLATION": "Ah good job everyone",
+    "END_AT": 151.6,
+    "WORDS": [
+      {
+        "TRANSLATION": "Ah",
+        "WORD": "아",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "a"
+      },
+      {
+        "TRANSLATION": "Effort",
+        "WORD": "수고들",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "sugodeul"
+      },
+      {
+        "TRANSLATION": "I did it",
+        "WORD": "했어",
+        "WORD_TYPE": "v.",
+        "PRONOUNCIATION": "haess-eo"
+      }
+    ],
+    "SENTENCE": "아 수고들 했어"
+  },
+  {
+    "TRANSLATION": "Ah Mr. Lee,",
+    "END_AT": 161.04,
+    "WORDS": [
+      {
+        "TRANSLATION": "Ah",
+        "WORD": "아",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "a"
+      },
+      {
+        "TRANSLATION": "representation",
+        "WORD": "이대표,",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "daepyo"
+      }
+    ],
+    "SENTENCE": "아 이대표,"
+  },
+  {
+    "TRANSLATION": "Today's Golf, could we postpone it?",
+    "END_AT": 165.38,
+    "WORDS": [
+      {
+        "TRANSLATION": "today",
+        "WORD": "오늘",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "oneul"
+      },
+      {
+        "TRANSLATION": "golf",
+        "WORD": "골프",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "golpeu"
+      },
+      {
+        "TRANSLATION": "Words",
+        "WORD": "말이야",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "mal"
+      },
+      {
+        "TRANSLATION": "Another day",
+        "WORD": "다른날로",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "daleunnal"
+      },
+      {
+        "TRANSLATION": "A little",
+        "WORD": "좀",
+        "WORD_TYPE": "adv.",
+        "PRONOUNCIATION": "jom"
+      },
+      {
+        "TRANSLATION": "Will you wait?",
+        "WORD": "미룰까?",
+        "WORD_TYPE": "v.",
+        "PRONOUNCIATION": "milulkka?"
+      }
+    ],
+    "SENTENCE": "오늘 골프 말이야 다른날로 좀 미룰까?"
+  },
+  {
+    "TRANSLATION": "Ah...It's just",
+    "END_AT": 168.24,
+    "WORDS": [
+      {
+        "TRANSLATION": "Oh ... today",
+        "WORD": "아...오늘",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "a...oneul"
+      },
+      {
+        "TRANSLATION": "of mine",
+        "WORD": "내가",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "nae"
+      },
+      {
+        "TRANSLATION": "just",
+        "WORD": "그냥",
+        "WORD_TYPE": "adv.",
+        "PRONOUNCIATION": "geunyang"
+      }
+    ],
+    "SENTENCE": "아...오늘 내가 그냥"
+  },
+  {
+    "TRANSLATION": "I'd like to stay late in our comapny",
+    "END_AT": 172.51,
+    "WORDS": [
+      {
+        "TRANSLATION": "Us",
+        "WORD": "우리",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "uli"
+      },
+      {
+        "TRANSLATION": "company",
+        "WORD": "회사에",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "hoesa"
+      },
+      {
+        "TRANSLATION": "Remain",
+        "WORD": "남아있고",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "nam-aissgo"
+      },
+      {
+        "TRANSLATION": "I want to",
+        "WORD": "싶구만",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "sipgu"
+      },
+      {
+        "TRANSLATION": "UNKNOWN",
+        "WORD": "그래",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "UNKNOWN"
+      }
+    ],
+    "SENTENCE": "우리 회사에 남아있고 싶구만 그래"
+  },
+  {
+    "TRANSLATION": "it was a powerful presentation of a true trader",
+    "END_AT": 175.98,
+    "WORDS": [
+      {
+        "TRANSLATION": "liver",
+        "WORD": "간만에",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "gan"
+      },
+      {
+        "TRANSLATION": "UNKNOWN",
+        "WORD": "상사맨의",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "UNKNOWN"
+      },
+      {
+        "TRANSLATION": "verve",
+        "WORD": "기백이",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "gibaeg"
+      },
+      {
+        "TRANSLATION": "I feel it.",
+        "WORD": "느껴지는",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "neukkyeoji"
+      },
+      {
+        "TRANSLATION": "It was Petty.",
+        "WORD": "피티였어",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "pitiyeoss-eo"
+      }
+    ],
+    "SENTENCE": "간만에 상사맨의 기백이 느껴지는 피티였어"
+  },
+  {
+    "TRANSLATION": "It reminded of you, Director Lee,",
+    "END_AT": 178.24,
+    "WORDS": [
+      {
+        "TRANSLATION": "Thinking",
+        "WORD": "생각해보니까",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "saeng-gaghaebonikka"
+      },
+      {
+        "TRANSLATION": "Translation",
+        "WORD": "이",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": ""
+      },
+      {
+        "TRANSLATION": "Managing Director",
+        "WORD": "전무",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "jeonmu"
+      }
+    ],
+    "SENTENCE": "생각해보니까 이 전무"
+  },
+  {
+    "TRANSLATION": "Didn't you fearlessly stand up like that 20 years ago?",
+    "END_AT": 181.4,
+    "WORDS": [
+      {
+        "TRANSLATION": "20 years",
+        "WORD": "20년",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "20nyeon"
+      },
+      {
+        "TRANSLATION": "I'm",
+        "WORD": "전에",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "jeon"
+      },
+      {
+        "TRANSLATION": "That way",
+        "WORD": "저렇게",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "jeoleohge"
+      },
+      {
+        "TRANSLATION": "One",
+        "WORD": "한",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "han"
+      },
+      {
+        "TRANSLATION": "time",
+        "WORD": "번",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "beon"
+      },
+      {
+        "TRANSLATION": "Sack",
+        "WORD": "들이박지",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "deulbagji"
+      },
+      {
+        "TRANSLATION": "Did not you?",
+        "WORD": "않았어?",
+        "WORD_TYPE": "v.",
+        "PRONOUNCIATION": "anh-ass-eo?"
+      }
+    ],
+    "SENTENCE": "20년 전에 저렇게 한 번 들이박지 않았어?"
+  },
+  {
+    "TRANSLATION": "Of course, So many times!",
+    "END_AT": 183.91,
+    "WORDS": [
+      {
+        "TRANSLATION": "Ah",
+        "WORD": "아",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "a"
+      },
+      {
+        "TRANSLATION": "right.",
+        "WORD": "그렇지.",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "geuleohji."
+      },
+      {
+        "TRANSLATION": "I'm",
+        "WORD": "이전에",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "jeon"
+      },
+      {
+        "TRANSLATION": "One",
+        "WORD": "한",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "han"
+      },
+      {
+        "TRANSLATION": "two",
+        "WORD": "두",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "du"
+      },
+      {
+        "TRANSLATION": "time",
+        "WORD": "번",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "beon"
+      },
+      {
+        "TRANSLATION": "I did it?",
+        "WORD": "했어?",
+        "WORD_TYPE": "v.",
+        "PRONOUNCIATION": "haess-eo?"
+      }
+    ],
+    "SENTENCE": "아 그렇지. 이전에 한 두 번 했어?"
+  },
+  {
+    "TRANSLATION": "Everyone, good job",
+    "END_AT": 203.18,
+    "WORDS": [
+      {
+        "TRANSLATION": "kids",
+        "WORD": "애들",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "aedeul"
+      },
+      {
+        "TRANSLATION": "wrote",
+        "WORD": "썼다",
+        "WORD_TYPE": "v.",
+        "PRONOUNCIATION": "sseossda"
+      }
+    ],
+    "SENTENCE": "애들 썼다"
+  },
+  {
+    "TRANSLATION": "You did great Sir",
+    "END_AT": 207.67,
+    "WORDS": [
+      {
+        "TRANSLATION": "Thank you",
+        "WORD": "수고하셨습니다",
+        "WORD_TYPE": "v.",
+        "PRONOUNCIATION": "sugohasyeossseubnida"
+      },
+      {
+        "TRANSLATION": "Deputy",
+        "WORD": "차장님",
+        "WORD_TYPE": "n.",
+        "PRONOUNCIATION": "chajangnim"
+      }
+    ],
+    "SENTENCE": "수고하셨습니다 차장님"
+  },
+  {
+    "TRANSLATION": "you bastard",
+    "END_AT": 210.96,
+    "WORDS": [
+      {
+        "TRANSLATION": "Ah",
+        "WORD": "아이",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "a"
+      },
+      {
+        "TRANSLATION": "boy ~",
+        "WORD": "짜식이",
+        "WORD_TYPE": "UNKNOWN",
+        "PRONOUNCIATION": "jjasig"
+      }
+    ],
+    "SENTENCE": "아이 짜식이"
+  }
+],
+"lesson_content":[
+  { "VID": 2,
+    "SentenceIDX": 19,
+    "ID": 3,
+    "TITLE": "우리 -",
+    "LessonType": "vocabulary / culture",
+    "Equation": {"main_element" : "우리", "main_element_pron" : "woori", "right_element": "NOUN", "left_element": null},
+    "Description": "우리 is a pronoun / adjective commonly used to refer to a group that an individual feels emotional belongingness. It is a sentiment that is specific in Korean culture. Korean culture puts an emphasis on this type of belongningness.",
+    "Elements": {"Kor": "우리", "Eng": ["our","us"]},
+    "tag": "adjective",
+
+   "UsageCase": {
+      "main_case" :
+        {"sentence":"우리 회사",
+        "translation": "our company",
+        "lesson_element": "우리",
+        "peripheral_element": {
+            "left_side_element": null, "left_side_element_pron": null, "left_side_element_fullform": null, "right_side_element": "회사", "right_side_element_pron": "hwesa", "right_side_element_fullform": null}
+          },
+
+      "other_case": [
+        {"sentence":"우리 나라",
+          "translation": "our country",
+          "lesson_element": "우리",
+          "peripheral_element": {
+              "left_side_element": null ,"left_side_element_fullform": null, "left_side_element_def": null, "right_side_element": "나라", "right_side_element_pron": "nara", "right_side_element_fullform": null, "right_side_element_def": "country"},
+          "source": {
+            "vid_id":"_TopBMd3fH4",
+            "viewed_date":"2018-11-07",
+            "timestamp":{"start":"70", "end":"81"}
+          }
+        },
+        {"sentence":"우리 엄마",
+          "translation": "our mother",
+          "lesson_element": "우리",
+          "peripheral_element": {
+              "left_side_element": null ,"left_side_element_fullform": null, "left_side_element_def": null, "right_side_element": "엄마", "right_side_element_pron": "eomma", "right_side_element_fullform": null, "right_side_element_def": "country"},
+          "source": {
+            "vid_id":"Ns4uhLsibeY",
+            "viewed_date":"2018-11-07",
+            "timestamp":{"start":"0", "end":"3"}
+          }
+        }
+      ]
+    }
+  }
+]
+}
