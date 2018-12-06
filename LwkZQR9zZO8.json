@@ -35,7 +35,8 @@
         "PRONOUNCIATION": "bogoinde"
       }
     ],
-    "SENTENCE": "준비가 상당히 잘 된 보고인데"
+    "SENTENCE": "준비가 상당히 잘 된 보고인데",
+    "actorId":1
   },
   {
     "TRANSLATION": "How did your team handle it?",
@@ -72,7 +73,8 @@
         "PRONOUNCIATION": "doedeon?"
       }
     ],
-    "SENTENCE": "영업 3팀 자체로 감당이 되던가?"
+    "SENTENCE": "영업 3팀 자체로 감당이 되던가?",
+    "actorId":3
   },
   {
     "TRANSLATION": "Yes Sir,",
@@ -85,7 +87,8 @@
         "PRONOUNCIATION": "ne"
       }
     ],
-    "SENTENCE": "네"
+    "SENTENCE": "네",
+    "actorId":2
   },
   {
     "TRANSLATION": "The support team in Jordan",
@@ -116,7 +119,8 @@
         "PRONOUNCIATION": "keossseubnida"
       }
     ],
-    "SENTENCE": "요르단 현지팀의 도움도 컸습니다"
+    "SENTENCE": "요르단 현지팀의 도움도 컸습니다",
+    "actorId":6
   },
   {
     "TRANSLATION": "was a huge help",
@@ -147,7 +151,8 @@
         "PRONOUNCIATION": "keossseubnida"
       }
     ],
-    "SENTENCE": "요르단 현지팀의 도움도 컸습니다"
+    "SENTENCE": "요르단 현지팀의 도움도 컸습니다",
+    "actorId":6
   },
   {
     "TRANSLATION": "But, the one who proposed",
@@ -233,7 +238,8 @@
         "PRONOUNCIATION": "salam"
       }
     ],
-    "SENTENCE": "근데 이 사업을 다시하자고 제안한 사람이"
+    "SENTENCE": "근데 이 사업을 다시하자고 제안한 사람이",
+    "actorId":1
   },
   {
     "TRANSLATION": "resuming this risky project",

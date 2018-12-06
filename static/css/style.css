@@ -47,6 +47,16 @@ margin: 0 auto;
 text-align: center;
 z-index: 10;
 }
+.individual-caption-box{
+  position: absolute;
+  font-family: 'Raleway', sans-serif;
+  background: black;
+  color : #ffffff;
+  opacity :0.75;
+  font-size:20px;
+  padding: 10px;
+
+}
 .custom-modal{
 display: none;
 position: absolute;
