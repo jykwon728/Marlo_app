@@ -31,11 +31,21 @@ gettingScript(scriptLocation)
       let actorId = loadedCaptionLocation[i].actorId
       let actorName = loadedCaptionLocation[i].actorName
       let location = loadedCaptionLocation[i].captionLocation
-      $('#videoPlaceholder').append('<div id="individualCaptionBox'+i+'" class="individual-caption-box" style="display: none; position:absolute; width:auto; height:auto; background: black; color : #ffffff; opacity :0.75; padding-left: 7px; padding-right:7px; font-size:20px; bottom:'+location.y+'%'+'; left:'+location.x+'%'+';"></div>');
+      $('#videoPlaceholder').append('<div id="individualCaptionBox'+i+'" data-actor-name="'+actorName+'" class="individual-caption-box" style="display: none; position:absolute; width:auto; height:auto; background: black; color : #ffffff; opacity :0.75; padding-left: 7px; padding-right:7px; font-size:20px; bottom:'+location.y+'%'+'; left:'+location.x+'%'+';"></div>');
       $('#individualCaptionBox'+i).text('testing')
     }
-
+    $(".individual-caption-box").on('click',function(){
+    $("#sentenceWho").text('')
+    $("#sentenceWho").text($(this).attr("data-actor-name") + ' just said...')
+    player.pauseVideo();
+    lessonBoxHide()
+    console.log('individual caption box click is working...:', $(this).attr("data-actor-name"));
   })
+  }
+  )
+
+
+
 
 $('#learnButton').on('click', function(){
 
@@ -126,20 +136,31 @@ function showScriptNow(){
   //change to sentencePrev if want to use the weird way
   return sentenceNow;
 }
+
 function showScriptNowActors(){
   checkForLesson()
   findindex()
   let actorNow = loadedScript[currentIndex].actorId
-  if( actorNow === 1){
-    $("#individualCaptionBox"+0).text(loadedScript[currentIndex].SENTENCE)
-    $("#individualCaptionBox"+0).show();
-  }else if(actorNow === 2){
-    $("#individualCaptionBox"+1).text(loadedScript[currentIndex].SENTENCE)
-    $(".individual-caption-box").hide();
-    $("#individualCaptionBox"+0).show();
+
+  function showAndHideCaptionBox(index){
+    $("#individualCaptionBox"+index).show();
+    setInterval(function(){
+      $("#individualCaptionBox"+index).hide();
+    },7000)
   }
 
-}
+  for(let x=0;x<loadedCaptionLocation.length;x++){
+    if(actorNow === x+1){
+      $("#individualCaptionBox"+x).text(loadedScript[currentIndex].SENTENCE)
+      showAndHideCaptionBox(x)
+
+    }
+
+    }
+  }
+
+
+
 
 //repeats Showscript function every 0.5 seconds
 function repeatShowScript(){
@@ -353,8 +374,6 @@ lessonBoxHide()
 lessonCardPop()
 console.log('lessonCardButton is working');
 // $('#lessonContent').html("");
-
-
 
 })
 
