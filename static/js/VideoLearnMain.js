@@ -144,9 +144,10 @@ function showScriptNowActors(){
 
   function showAndHideCaptionBox(index){
     $("#individualCaptionBox"+index).show();
+    let captionShowTime = (loadedScript[currentIndex].END_AT - loadedScript[currentIndex].START_AT) * 1000;
     setInterval(function(){
       $("#individualCaptionBox"+index).hide();
-    },7000)
+    },captionShowTime)
   }
 
   for(let x=0;x<loadedCaptionLocation.length;x++){

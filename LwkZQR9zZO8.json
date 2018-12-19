@@ -2,6 +2,7 @@
   "caption":[
   {
     "TRANSLATION": "The report is well prepared",
+    "START_AT":0.5,
     "END_AT": 2.5,
     "WORDS": [
       {
@@ -40,6 +41,7 @@
   },
   {
     "TRANSLATION": "How did your team handle it?",
+    "START_AT":2.6,
     "END_AT": 5.6,
     "WORDS": [
       {
@@ -78,6 +80,7 @@
   },
   {
     "TRANSLATION": "Yes Sir,",
+    "START_AT":4.7,
     "END_AT": 7.09,
     "WORDS": [
       {
@@ -92,6 +95,7 @@
   },
   {
     "TRANSLATION": "The support team in Jordan",
+    "START_AT":8.5,
     "END_AT": 9.18,
     "WORDS": [
       {
@@ -1218,7 +1222,7 @@
 "lesson_content":[
   { "VID": 2,
     "SentenceIDX": 19,
-    "ID": 3,
+    "ID": 1,
     "TITLE": "우리 -",
     "LessonType": "vocabulary / culture",
     "Equation": {"main_element" : "우리", "main_element_pron" : "woori", "right_element": "NOUN", "left_element": null},
@@ -1265,25 +1269,38 @@
 "CaptionLocation":[
   {"actorId":1,
   "actorName":"V",
-  "captionLocation":{"x":5, "y":10}},
+  "captionLocation":{"x":5, "y":10},
+  "indexTurn":[1,3,5]
+  },
   {"actorId":2,
   "actorName":"Jin",
-  "captionLocation":{"x":20, "y":15}},
+  "captionLocation":{"x":20, "y":15},
+  "indexTurn":[2,4]
+  },
   {"actorId":3,
   "actorName":"RM",
-  "captionLocation":{"x":35, "y":20}},
+  "captionLocation":{"x":35, "y":20},
+  "indexTurn":[6,7]
+  },
   {"actorId":4,
   "actorName":"Suga",
-  "captionLocation":{"x":50, "y":45}},
+  "captionLocation":{"x":50, "y":45},
+  "indexTurn":[8]},
   {"actorId":5,
   "actorName":"J-Hope",
-  "captionLocation":{"x":65, "y":40}},
+  "captionLocation":{"x":65, "y":40},
+  "indexTurn":[9]
+  },
   {"actorId":6,
   "actorName":"Jungkook",
-  "captionLocation":{"x":75, "y":35}},
+  "captionLocation":{"x":75, "y":35},
+  "indexTurn":[10]
+  },
   {"actorId":7,
   "actorName":"Jimin",
-  "captionLocation":{"x":90, "y":20}}
+  "captionLocation":{"x":90, "y":20},
+  "indexTurn":[11]
+  }
 
 
 ]
